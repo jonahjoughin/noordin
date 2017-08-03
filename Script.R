@@ -1,5 +1,5 @@
 library(statnet)
-setwd('~/Documents/University/Social Networks/Final Project')
+setwd('~/Documents/noordin')
 
 # Retrieve Data (data omitted due to liscensing)
 network.data <- read.csv('noordin_terrorist_friendship_network.csv',as.is=T,header=T,row.names=1)
